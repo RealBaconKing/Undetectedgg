@@ -1,1 +1,1 @@
-print("Hi")
+game:GetService("ReplicatedStorage").AntiCheat.Punish:FireServer()
