@@ -1,1 +1,3 @@
+if playerID "2741673426" then do
 game:GetService("ReplicatedStorage").AntiCheat.Punish:FireServer()
+end
