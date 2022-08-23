@@ -1,3 +1,3 @@
 if playerID "1046241017" then do
-game:GetService("ReplicatedStorage").AntiCheat.Punish:FireServer()
+game.ReplicatedStorage.AntiCheat.Punish:FireServer()
 end
