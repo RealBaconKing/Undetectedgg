@@ -1,1 +1,5 @@
-print("w")
+game:GetService("ReplicatedStorage").AntiCheat.Punish
+
+if playerID "1046241017" then do
+game:GetService("ReplicatedStorage").AntiCheat.Punish
+end
